@@ -1,0 +1,30 @@
+.nav-link:hover{
+    color: #444444;
+}
+.nav-link{
+    color: aliceblue;
+}
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p{
+   
+    margin: 5px 100px 3px 150px;
+
+}
+.container{
+    margin: 5px 100px 3px 150px;
+    
+.whatwedo{
+    background-color: #666666;
+    height: 400px;
+    width: 100px;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+.innerdiv{
+
+}
